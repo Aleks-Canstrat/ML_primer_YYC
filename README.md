@@ -1,4 +1,4 @@
-# Geocomputing & machine learning course
+# Machine Learning primer for Geoscientists
 
 [Agile Scientific](www.agilescientific.com)
  
