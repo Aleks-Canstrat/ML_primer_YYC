@@ -6,11 +6,11 @@ This is a crash course in the fundamentals of [Python](https://www.python.org/) 
 
 The course uses standard industry data such as well logs, horizons, and seismic to illustrate computational concepts we all encounter in our daily workflows. We teach using the Python programming language. It's a fun, powerful language for scientific computing. It is easy-to-learn, even if it does have a rather daunting ecosystem of thousands of open source code libraries. But fear not, we'll get you set up and well practiced with the handful of ones that you'll use the majority of the time.
 
-**Instructors:** [Evan Bianco](https://twitter.com/EvanBianco) and [Diego Castañeda](https://twitter.com/dfcastap)
+**Instructors:** [Evan Bianco](https://twitter.com/EvanBianco)
 
-**When**: 3–5 Oct 2017, 8:00 am to 4:00 pm.
+**When**: 5–6 Dec 2017, 8:30 am to 5:00 pm.
 
-**Where**: Aramco Research offices, Houston, Texas.
+**Where**: Assembly YYC, Calgary, AB.
 
 **Bring**: Participants must bring their **own computers** (Mac, Windows, or Linux) with the required **software already installed** (see **What to install** section (below). [Contact the instructors](https://agilescientific.com/contact-us/) if you need any help **before** the course. 
 
